@@ -2,7 +2,7 @@
 
 ### Getting started
 
-In this repository we will be diving into the world of writing GitHub Actions! I will guide you through the process of writing a custom JavaScript based GitHub Actions.
+In this repository we will be diving into the world of writing GitHub Actions! I will guide you through the process of writing a custom JavaScript based GitHub Actions. 
 
 You may be asking yourself, "is JavaScript the only way to create custom GitHub Actions?"
 
